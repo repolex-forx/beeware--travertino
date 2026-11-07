@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "beeware",
+  "repo": "travertino",
+  "versions": [
+    {
+      "commit": "4371d7586eaef929c519e80f4bdaacff40dd71d5",
+      "parsed_at": "2026-11-07T12:06:16.656980+00:00",
+      "filetree": "filetree/4371d7586eaef929c519e80f4bdaacff40dd71d5.nq.gz",
+      "blobs": [
+        "blob/bf7a99da4ed3e8541117cf2b66ef3dc7e5733543.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
