@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/travertino/commit/4371d7586eaef929c519e80f4bdaacff40dd71d5",
       "git:hexsha": "4371d7586eaef929c519e80f4bdaacff40dd71d5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/travertino/commit/21bf44f690a986ef0e18a67f75079679056d1958",
